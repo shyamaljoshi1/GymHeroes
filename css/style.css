@@ -25,7 +25,7 @@ hr {
 
 .header {
     opacity: 0.95;
-    background-image: url("/resources/anastase-maragos-9dzWZQWZMdE-unsplash.jpg");
+    background-image: url('/resources/anastase-maragos-9dzWZQWZMdE-unsplash.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
