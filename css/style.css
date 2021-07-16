@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+* {
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+    animation-delay: 40s;
+    box-sizing: border-box;
+    color: lavender;
+    background-color: black;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+hr {
+    border-top: dotted 8px lavender;
+    border-bottom: 0px;
+    opacity: 0.89;
+    width: 80%;
+    margin: auto auto;
+}
+
+.header {
+    opacity: 0.95;
+    background-image: url("/resources/anastase-maragos-9dzWZQWZMdE-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    height: 790px;
+    width: 100%;
+}
+
+.left {
+    font-family: "Fira Sans", sans-serif;
+    /* float: left; */
+    margin-top: 8px;
+    margin-left: 0px;
+    /* margin-right: 410px; */
+    display: inline-block;
+    /* position: fixed; */
+}
+
+.imga {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2.5em;
+    padding: 12px;
+}
+
+.imga a {
+    font-family: 'Open Sans', sans-serif;
+    color: lavender;
+}
+
+.center {
+    font-family: "Fira Sans", sans-serif;
+    /* float: left; */
+    margin: 50px auto;
+    font-size: 20px;
+    /* display: inline-block; */
+    float: right;
+}
+
+.center a {
+    color: lavender;
+    margin: 12px;
+    padding: 5px 10px;
+    border: 1px solid lavender;
+    border-radius: 20px;
+}
+
+.center a:hover {
+    background-color: lavender;
+    color: black;
+}
+
+.about {
+    width: 80%;
+    margin: auto;
+    padding-right: auto;
+}
+
+.container {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 1.4em;
+    opacity: 0.95;
+}
+
+.container .about {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.8rem;
+}
+
+.join {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    opacity: 0.95;
+}
+
+.devloper img {
+    opacity: 0.95;
+    width: 100%;
+}
+
+footer {
+    font-family: 'Poppins', sans-serif;
+    opacity: 0.95;
+    height: 95px;
+    padding: 23px;
+    float: right;
+    text-align: center;
+}
+
+footer a {
+    border: 1px solid lavender;
+    border-radius: 20px;
+    margin: 12px;
+    padding: 5px 10px;
+    font-size: 1.4em;
+}
+
+footer a:hover {
+    background-color: lavender;
+    color: black;
+}
