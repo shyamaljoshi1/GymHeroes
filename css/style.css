@@ -127,3 +127,15 @@ footer a:hover {
     background-color: lavender;
     color: black;
 }
+
+.container h1 {
+    border: 1px solid lavender;
+    border-radius: 70px;
+    display: inline-block;
+    padding: 4px 10vw;
+    font-size: 40px;
+}
+
+#AB {
+    font-size: 20px;
+}
