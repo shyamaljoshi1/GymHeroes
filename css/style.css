@@ -118,9 +118,9 @@ footer {
 footer a {
     border: 1px solid lavender;
     border-radius: 20px;
-    margin: 12px;
+    margin: 1px;
     padding: 5px 10px;
-    font-size: 1.4em;
+/*     font-size: 1.4em; */
 }
 
 footer a:hover {
